@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "1",
+            "blogTitle" : "Lorem ipsum dolor sit amet",
+            "slug": "",
+            "postedOn": "June 19, 2019",
+            "author": "Salil",
+            "blogImage": "https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 2,
+            "blogCategory": "2",
+            "blogTitle": "Lorem ipsum dolor sit amet",
+            "slug": "",
+            "postedOn": "June 19, 2019",
+            "author": "Salil",
+            "blogImage": "https://images.pexels.com/photos/258083/pexels-photo-258083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 3,
+            "blogCategory": "3",
+            "blogTitle": "Lorem ipsum dolor sit amet",
+            "slug": "",
+            "postedOn": "June 19, 2019",
+            "author": "Salil",
+            "blogImage": "https://i0.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/Suzuki-Jimny-Light-Commercial-Vehicle-1.jpg?resize=696%2C492&ssl=1",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 4,
+            "blogCategory": "4",
+            "blogTitle": "Lorem ipsum dolor sit amet",
+            "slug": "",
+            "postedOn": "June 19, 2019",
+            "author": "Salil",
+            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/byd-ebus_0000.jpg?resize=696%2C435&ssl=1",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+        ,{
+            "id": 5,
+            "blogCategory": "5",
+            "blogTitle": "Lorem ipsum dolor sit amet",
+            "slug": "",
+            "postedOn": "June 19, 2019",
+            "author": "sali",
+            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/2021-suzuki-swift-facelift-europe-4.jpg?resize=696%2C461&ssl=1",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ]
+}
